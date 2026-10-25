@@ -1,13 +1,4 @@
 # Computer-Science-Students-Career-SQL-project-
-               📓 Project Notebook
-
-Mobile-Addiction-Analysis/mobile-addiction.ipynb at main · sifatshariar50/Mobile-Addiction-Analysis
-GitHub
-You sent
-https://github.com/sifatshariar50/Computer-Science-Students-Career-SQL-project-/blob/main/computer-science-students-career-sql-project.ipynb
-github.com
-You sent
-🎓 Computer Science Students Career Analysis Using SQL
 
 📌 Project Overview
 
