@@ -1,9 +1,6 @@
 # Computer-Science-Students-Career-SQL-project-
                📓 Project Notebook
 
-"View Mobile Addiction Analysis Notebook" (
-                https://github.com/sifatshariar50/Mobile-Addiction-Analysis/blob/main/mobile-addiction.ipynb
-
 Mobile-Addiction-Analysis/mobile-addiction.ipynb at main · sifatshariar50/Mobile-Addiction-Analysis
 GitHub
 You sent
